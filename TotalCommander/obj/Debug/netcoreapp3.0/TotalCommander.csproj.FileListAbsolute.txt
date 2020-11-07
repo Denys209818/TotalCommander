@@ -1,0 +1,11 @@
+C:\Users\Denis\Desktop\Новая папка C#\TotalCommander\TotalCommander\bin\Debug\netcoreapp3.0\TotalCommander.exe
+C:\Users\Denis\Desktop\Новая папка C#\TotalCommander\TotalCommander\bin\Debug\netcoreapp3.0\TotalCommander.deps.json
+C:\Users\Denis\Desktop\Новая папка C#\TotalCommander\TotalCommander\bin\Debug\netcoreapp3.0\TotalCommander.runtimeconfig.json
+C:\Users\Denis\Desktop\Новая папка C#\TotalCommander\TotalCommander\bin\Debug\netcoreapp3.0\TotalCommander.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\Новая папка C#\TotalCommander\TotalCommander\bin\Debug\netcoreapp3.0\TotalCommander.dll
+C:\Users\Denis\Desktop\Новая папка C#\TotalCommander\TotalCommander\bin\Debug\netcoreapp3.0\TotalCommander.pdb
+C:\Users\Denis\Desktop\Новая папка C#\TotalCommander\TotalCommander\obj\Debug\netcoreapp3.0\TotalCommander.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Новая папка C#\TotalCommander\TotalCommander\obj\Debug\netcoreapp3.0\TotalCommander.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Новая папка C#\TotalCommander\TotalCommander\obj\Debug\netcoreapp3.0\TotalCommander.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Новая папка C#\TotalCommander\TotalCommander\obj\Debug\netcoreapp3.0\TotalCommander.dll
+C:\Users\Denis\Desktop\Новая папка C#\TotalCommander\TotalCommander\obj\Debug\netcoreapp3.0\TotalCommander.pdb
